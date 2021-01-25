@@ -69,6 +69,6 @@ Classe: PessoaTeste.java (localização: src/teste/java/br.com.jessica.cadastro.
 
 >> CONFIGURAÇÕES GERAIS E DO BANCO DE DADOS RELACIONAL UTILIZADO
 
-Spring: Versão: 2.3.3.RELEASE Java: Versão: 11 PostgreSql: Versão: 12.4.1 (Win x64) Obs.: Arquivo com configurações do banco (application.properties) >>DataBase: jdbc:postgresql://localhost:5432/bancocep IMPORTANTE: Antes de executar criar base de dados "bancocep" pois o hibernate não cria o data base automático, as tabelas (e caso tenha triggers/procedures/indexes) essas sim são criadas automaticamente (de acordo com o que o projeto possuir) ao executar a application. >>Username: postgres >>password: a (configurado durante instalação do postgresql)
+Spring: Versão: 2.3.3.RELEASE Java: Versão: 11 PostgreSql: Versão: 12.4.1 (Win x64) Obs.: Arquivo com configurações do banco (application.properties) >>DataBase: jdbc:postgresql://localhost:5432/bancocep IMPORTANTE: Antes de executar criar base de dados "bancopessoa" pois o hibernate não cria o data base automático, as tabelas (e caso tenha triggers/procedures/indexes) essas sim são criadas automaticamente (de acordo com o que o projeto possuir) ao executar a application. >>Username: postgres >>password: a (configurado durante instalação do postgresql)
 
 
