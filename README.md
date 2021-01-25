@@ -1,6 +1,11 @@
 # cadastro-pessoa
 Cadastro pessoa CRUD usando Spring boot - Java
 
+- Diretório:
+
+>> cadPessoas: front-end (Angular)
+
+>> pessoa: back-end (Java Spring-Boot)
 
 Código backend contruído em JAVA - SpringBoot 
 
