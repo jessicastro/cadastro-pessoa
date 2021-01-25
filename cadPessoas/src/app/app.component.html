@@ -1,0 +1,10 @@
+
+<ap-photo>  
+</ap-photo>
+
+<ap-pessoa
+  *ngFor="let pessoa of dadosPessoa | keyvalue" 
+  [dados]="pessoa.value | json"  
+>
+</ap-pessoa>
+
